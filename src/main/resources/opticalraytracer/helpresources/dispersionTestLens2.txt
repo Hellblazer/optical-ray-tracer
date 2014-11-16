@@ -1,0 +1,19 @@
+object {
+  active                    = true
+  angle                     = 0.000000e+00
+  dispersion                = 29.000000
+  function                  = 0
+  ior                       = 1.720000
+  leftCurvature             = 0
+  leftSphereRadius          = 10000.000000
+  leftZValue                = 20.000000
+  lensRadius                = 2.000000
+  name                      = Flint glass lens
+  rightCurvature            = 0
+  rightSphereRadius         = -5.000000
+  rightZValue               = 20.000000
+  symmetrical               = false
+  thickness                 = 0.300000
+  xPos                      = 0.347000
+  yPos                      = 0.000000e+00
+}
